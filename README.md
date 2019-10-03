@@ -1,5 +1,7 @@
 # Push-notifications
 
+Se debe registrar la aplicación en la plataforma Firebase, para que ésta genere un archivo google-services.json con los datos de conexión.
+
 El botón en la activity genera un log en Android Studio con el token de identificación único del dispositivo.
 
 Se debe buscar en la consola de Firebase la key de autorización de la aplicación en la plataforma.
